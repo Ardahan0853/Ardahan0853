@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ardahan0853
 - 👀 I’m interested in coding a lot
-- 🌱 I’m currently learning phyton and javascript
+- 🌱 I’m currently learning Front End and little bit of a Back End.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ardahan08530853@hotmail.com
 
