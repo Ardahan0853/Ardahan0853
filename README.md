@@ -7,4 +7,4 @@ Techs i use:
 
 Tools i use:
 
-[![My Tools](https://skillicons.dev/icons?i=bash,figma,git,github,heroku,linux,npm)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=bash,figma,git,github,heroku,linux,npm,vscode)](https://skillicons.dev)
