@@ -2,7 +2,7 @@
 
 Techs i use: 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,php,laravel,react,vue,express,mongodb,bootstrap,firebase,py,jquery,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,react,vue,express,mongodb,bootstrap,firebase,jquery,nodejs)](https://skillicons.dev)
 
 
 Tools i use:
